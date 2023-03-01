@@ -1,0 +1,8 @@
+Goodbye World
+
+
+Hello World
+Goodbye World
+
+using > Creates a text in the .txt file, and if used again it changes the characters to the new one.
+using >> Creates text in a separate line, using it again creates the text in the line bellow.
